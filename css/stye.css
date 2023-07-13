@@ -1,0 +1,75 @@
+.slider h1,
+.slider h2, .slider h4,
+.slider h3,
+.slider h5 {
+    text-shadow: 2px 2px 0px rgb(255, 0, 191);
+} 
+/* .service h5,
+.service h3 
+{
+    text-shadow: 2px 2px 4px rgb(5, 5, 5);
+} */
+/* bayangan kiri bawah blur */
+
+.logo img{
+ 
+    height: 150px;
+}
+
+.slider {
+    height: 900px;
+}
+
+.parallax-container {
+    height: 350px;
+}
+
+.parallax img {
+    
+    opacity: 0.3 !important;
+}
+
+
+.tombol {
+    margin: 0 auto;
+    padding: 0;
+    width: 250px;
+    height: 100px;}
+
+
+.tombol-aktif {
+    padding: 10px 40px;
+    margin-top: 250px;
+    border-radius: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color: #fff;
+
+    background-color: pink;
+    border-bottom: 5px solid pink;
+    text-shadow: 0px -2px solid pink;
+}
+
+.tombol2-aktif {
+    padding: 10px 40px;
+    margin-top: 250px;
+    border-radius: 10px;
+    font-size: 20px;
+    text-decoration: none;
+    color:grey;
+
+    background-color: rgb(230, 225, 225);
+    border-bottom: 5px solid grey;
+    text-shadow: 0px -2px solid grey;
+}
+
+.icon {
+    text-decoration: none;
+    color: inherit;
+}
+
+
+section, footer {
+    margin: 0;
+    padding: 20px 0;
+}
